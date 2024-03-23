@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👨‍💻 Dmitriy Burin (@s0vunia)
 
-<!--
-**s0vunia/s0vunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer 🚀
 
-Here are some ideas to get you started:
+## 🦾 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Backend**: `Go` (primary), `Python`
+
+- 💾 **Databases/Brokers**: `PostgreSQL`, `MySQL`, `MongoDB`, `RabbitMQ`
+
+- 🚢 **Containers and etc**: `Docker`
+
+- 📚 **Other**: Git, Linux, ML, GRpc/REST
+
+## 📨 Contacts
+
+- **Telegram** (preferred): [@badimonchik](https://t.me/badimonchik)
+
+- **Email**: [burindima324@gmail.com](mailto:burindima324@gmail.com)
+
