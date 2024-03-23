@@ -10,7 +10,7 @@ Software Engineer 🚀
 
 - 🚢 **Containers and etc**: `Docker`
 
-- 📚 **Other**: Git, Linux, ML, GRpc/REST
+- 📚 **Other**: `Git`, `Linux`, `ML`, `GRpc/REST`
 
 ## 📨 Contacts
 
