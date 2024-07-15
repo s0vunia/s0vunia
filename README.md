@@ -14,4 +14,4 @@ Software Engineer 🚀
 
 ## 📨 Contacts
 
-- **Telegram** (preferred): [@badimonchik](https://t.me/badimonchik)
+- **Telegram** (preferred): [@s0vunia](https://t.me/s0vunia)
