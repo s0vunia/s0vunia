@@ -10,6 +10,8 @@ Software Engineer 🚀
 
 - 🚢 **Containers and etc**: `Docker`
 
+- 📊 **Algs**: [leetcode](https://leetcode.com/u/s0vunia)
+
 - 📚 **Other**: `Git`, `Linux`, `ML`, `gRPC/REST`
 
 ## 📨 Contacts
