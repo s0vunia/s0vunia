@@ -6,7 +6,7 @@ Software Engineer 🚀
 
 - 🛠 **Backend**: `Go` (primary), `Python`
 
-- 💾 **Databases/Brokers**: `PostgreSQL`, `MySQL`, `MongoDB`, `RabbitMQ`
+- 💾 **Databases/Brokers**: `PostgreSQL`, `MySQL`, `MongoDB`, `RabbitMQ`, `Kafka`
 
 - 🚢 **Containers and etc**: `Docker`
 
