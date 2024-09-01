@@ -12,7 +12,7 @@ Software Engineer 🚀
 
 - 📊 **Algs**: [leetcode](https://leetcode.com/u/s0vunia)
 
-- 📚 **Other**: `Git`, `Linux`, `ML`, `gRPC/REST`
+- 📚 **Other**: `ML`, `Git`, `Linux`
 
 ## 📨 Contacts
 
